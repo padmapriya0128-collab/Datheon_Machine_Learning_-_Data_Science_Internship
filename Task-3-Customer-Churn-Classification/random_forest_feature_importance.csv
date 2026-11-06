@@ -1,0 +1,11 @@
+Feature,Importance
+remainder__TotalCharges,0.12808345940738045
+remainder__tenure,0.11148461096046959
+remainder__MonthlyCharges,0.10665652289888763
+categorical__Contract_Month-to-month,0.07223864678923499
+categorical__OnlineSecurity_No,0.05409502656425161
+categorical__PaymentMethod_Electronic check,0.05391046244964034
+categorical__TechSupport_No,0.041726523879512985
+categorical__InternetService_Fiber optic,0.030198473972830528
+categorical__Contract_Two year,0.028255301056016476
+categorical__OnlineSecurity_Yes,0.023495190980991183

@@ -1,0 +1,11 @@
+Feature,Importance
+categorical__Contract_Month-to-month,0.45873097
+categorical__OnlineSecurity_No,0.0668625
+categorical__PaymentMethod_Electronic check,0.05754208
+categorical__InternetService_Fiber optic,0.035617582
+categorical__TechSupport_No,0.026161332
+categorical__TechSupport_Yes,0.019997459
+categorical__PaperlessBilling_Yes,0.019373434
+categorical__Dependents_No,0.018843327
+categorical__Contract_Two year,0.018208457
+categorical__StreamingMovies_Yes,0.016446657
